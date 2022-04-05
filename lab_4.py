@@ -51,8 +51,3 @@ print(decoded_data)
 mail.logout()
 
 
-# opyat izm
-def brand_new_parse():
-    print("brand_new_parse_action")
-def brand_new_coding():
-    print("brand_new_encoding")
