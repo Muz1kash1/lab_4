@@ -1,0 +1,61 @@
+* [33mcommit 4efe8ad6de14bec86f03d05938d5f747f3b10450[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m
+[31m|[m Author: Muz1kash1 <muz1kash1@yandex.ru>
+[31m|[m Date:   Tue Apr 5 21:50:24 2022 +0300
+[31m|[m 
+[31m|[m     ubral vsyakoe dermo
+[31m|[m 
+* [33mcommit 58ae2a444163a049283e1b930ada25170653f6aa[m
+[31m|[m Author: Muz1kash1 <46645683+Muz1kash1@users.noreply.github.com>
+[31m|[m Date:   Tue Apr 5 21:47:21 2022 +0300
+[31m|[m 
+[31m|[m     Update lab_4.py
+[31m|[m 
+* [33mcommit 800bd4b9d7f116a7b99f0096ac2edf7db6dc5452[m
+[31m|[m Author: Muz1kash1 <muz1kash1@yandex.ru>
+[31m|[m Date:   Tue Apr 5 21:45:39 2022 +0300
+[31m|[m 
+[31m|[m     used to be something
+[31m|[m 
+* [33mcommit 385eaf1870beb7dcfc04acc9ab75e39bda80b24a[m
+[31m|[m Author: Muz1kash1 <muz1kash1@yandex.ru>
+[31m|[m Date:   Tue Apr 5 21:43:09 2022 +0300
+[31m|[m 
+[31m|[m     fixed someshit
+[31m|[m 
+* [33mcommit b34f08336acfde20c948468cb0219a526cdf280c[m
+[31m|[m Author: Muz1kash1 <muz1kash1@yandex.ru>
+[31m|[m Date:   Tue Apr 5 21:17:25 2022 +0300
+[31m|[m 
+[31m|[m     added new encoding feature
+[31m|[m 
+* [33mcommit 87b74053b18e73f101f5da4540ae582be53b4044[m
+[31m|[m Author: Muz1kash1 <muz1kash1@yandex.ru>
+[31m|[m Date:   Tue Apr 5 21:02:16 2022 +0300
+[31m|[m 
+[31m|[m     added a new func
+[31m|[m 
+* [33mcommit 4f5802b059db38d5449216fa0e7b6a97494d396d[m
+[31m|[m Author: Muz1kash1 <muz1kash1@yandex.ru>
+[31m|[m Date:   Tue Apr 5 20:51:34 2022 +0300
+[31m|[m 
+[31m|[m     Revert "Vernul kak bilo"
+[31m|[m     
+[31m|[m     This reverts commit 4d9b67456f2fbb6b90feef463be050245b7b121d.
+[31m|[m 
+* [33mcommit 4d9b67456f2fbb6b90feef463be050245b7b121d[m
+[31m|[m Author: Muz1kash1 <muz1kash1@yandex.ru>
+[31m|[m Date:   Tue Apr 5 20:50:49 2022 +0300
+[31m|[m 
+[31m|[m     Vernul kak bilo
+[31m|[m 
+* [33mcommit c1560fe3865f231a3fb39f17f922951d5bf690c6[m
+[31m|[m Author: Muz1kash1 <muz1kash1@yandex.ru>
+[31m|[m Date:   Tue Apr 5 20:02:35 2022 +0300
+[31m|[m 
+[31m|[m     Kakoe to izmenenie
+[31m|[m 
+* [33mcommit 7486f2cfd9b955d345fa7efbd162e57f8eacf525[m
+  Author: Muz1kash1 <muz1kash1@yandex.ru>
+  Date:   Tue Apr 5 19:58:44 2022 +0300
+  
+      Parsit no ne vse
