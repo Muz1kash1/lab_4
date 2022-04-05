@@ -52,3 +52,5 @@ mail.logout()
 
 
 # opyat izm
+def brand_new_parse():
+    print("brand_new_parse_action")
