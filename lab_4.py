@@ -50,8 +50,4 @@ print(decoded_data)
 
 mail.logout()
 
-def some_new_func():
-    print("some_new_text")
 
-#nekotoroe izmenenie
-#nekotoroe izmenenie nomer 2
